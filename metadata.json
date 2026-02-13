@@ -1,0 +1,5 @@
+{
+  "name": "Gemini Text-to-Speech app",
+  "description": "A web application that converts text into natural-sounding speech using the Gemini API's gemini-2.5-flash-preview-tts model. Enter text and listen to the generated audio.",
+  "requestFramePermissions": []
+}
